@@ -1,6 +1,6 @@
-# Client Reports
+# Clinic Reports
 
-Client Reports is a CMS web-based application
+Clinic Reports is a CMS web-based application
 
 ## React Client Application Routes
 
